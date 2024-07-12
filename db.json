@@ -1,0 +1,20 @@
+{
+    "tarjetas": [
+        {
+            "id": 1,
+            "rol": "no recibido no pagado"
+        },
+        {
+            "id": 2,
+            "rol": "no recibido pagado"
+        },
+        {
+            "id": 3,
+            "rol": "recibido no pagado"
+        },
+        {
+            "id": 4,
+            "rol": "recibido pagado"
+        }
+    ]
+}
